@@ -2,7 +2,7 @@
 
 This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
 
-![Course Completion certificate](https://github.com/siddartha19/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/blob/master/Certificate.PNG)
+![Course Completion certificate](https://parul5528.github.io/Coursera-Courses/HTML-CSS-JavaScript-for-Web-Developers/Certificate.png)
 
 
 # Assignments :
@@ -16,7 +16,7 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Outputs :
 
-* [Module-2](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
-* [Module-3](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
-* [Module-4](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-4/index.html)
-* [Module-5](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
+* [Module-2](https://parul5528.github.io/Coursera-Courses/HTML-CSS-JavaScript-for-Web-Developers/Assignments/Module-2/assignment1.html)
+* [Module-3](https://parul5528.github.io/Coursera-Courses/HTML-CSS-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
+* [Module-4](https://parul5528.github.io/Coursera-Courses/HTML-CSS-JavaScript-for-Web-Developers/Assignments/module-4/)
+* [Module-5](https://parul5528.github.io/Responsive-Webpage/)
